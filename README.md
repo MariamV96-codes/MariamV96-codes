@@ -3,6 +3,10 @@
 <img src="https://github.com/MariamV96-codes/MariamV96-codes/blob/main/1479814528_webarebears.gif"  align="right"/>
 
 I am a web developer in the making with so many goals and aspirations but I have the attention span of a goldfish so I guess this is a fun ride.
+<br >
+<br >
+<br >
+
 
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: She/Her
@@ -13,11 +17,9 @@ I am a web developer in the making with so many goals and aspirations but I have
      [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]  <br>
 
 <br >
-<br >
-<br >
-
 
 ## 💻 Languages and Tools:  
+
 
 <img align="left" alt="Visual Studio Code" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -25,9 +27,6 @@ I am a web developer in the making with so many goals and aspirations but I have
 
  <br>
  
-
-
-
  # ⚡GitHub Stats
 
 [twitter]: https://twitter.com/MariamV_96
