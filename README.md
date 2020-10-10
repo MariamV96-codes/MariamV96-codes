@@ -10,11 +10,16 @@ I am a web developer in the making with so many goals and aspirations but I have
 
 <br >
 
-## 💻 Languages and Tools:  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp; &ensp;  &ensp;  &ensp; &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;  &ensp;📫 Get in touch:
+## 💻 Languages and Tools:  
 
 <img align="left" alt="Visual Studio Code" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+ <br>
+ 
+ 
+ ## 📫 Get in touch:
  
 
 [<img align="right" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
