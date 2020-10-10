@@ -1,6 +1,6 @@
+# Hi, I'm Mariam 👋🏽
+
 <img src="https://github.com/MariamV96-codes/MariamV96-codes/blob/main/1479814528_webarebears.gif" width="730"/>
-<br>
-###  Hi there 👋
 
 Here are some ideas to get you started:
 
