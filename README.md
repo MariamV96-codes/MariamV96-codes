@@ -10,7 +10,7 @@ I am a web developer in the making with so many goals and aspirations but I have
 
 
 - 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: She/Her
+- 👽 Pronouns: She/Her
 - ⚡ Fun fact: I can talk about Movies all day.
 - 📫 Get in touch:
 
