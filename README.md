@@ -1,4 +1,4 @@
-<img src="https://github.com/MariamV96-codes/MariamV96-codes/blob/main/1479814528_webarebears.gif" width="830"/>
+<img src="https://github.com/MariamV96-codes/MariamV96-codes/blob/main/1479814528_webarebears.gif" width="730"/>
 <br>
 ### Hi there 👋
 
