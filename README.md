@@ -1,4 +1,4 @@
-<img src="https://github.com/MariamV96-codes/MariamV96-codes/blob/main/1479814528_webarebears.gif"/>
+<img src="https://github.com/MariamV96-codes/MariamV96-codes/blob/main/1479814528_webarebears.gif" width="300"/>
 ### Hi there 👋
 
 **MariamV96-codes/MariamV96-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
