@@ -2,6 +2,7 @@
 
 <img src="https://github.com/MariamV96-codes/MariamV96-codes/blob/main/1479814528_webarebears.gif" width="480px" align="right"/>
 
+<br>
 I am a web developer in the making with so many goals and aspirations but I have the attention span of a goldfish so I guess this is a fun ride.
 <br >
 <br >
