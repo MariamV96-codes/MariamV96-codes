@@ -17,7 +17,6 @@ I am a web developer in the making with so many goals and aspirations but I have
     [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
     [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev] <br>
 
-<br >
 
 ## 💻 Languages and Tools:  
 
