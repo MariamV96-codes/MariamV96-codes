@@ -12,10 +12,6 @@ I am a web developer in the making with so many goals and aspirations but I have
 - 🌱 I’m currently learning JavaScript
 - 👽 Pronouns: She/Her
 - ⚡ Fun fact: I can talk about Movies all day.
-- 📫 Get in touch:
-
-    [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-    [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev] <br>
 
 <br>
 
