@@ -11,6 +11,7 @@ I am a web developer with so many goals and aspirations but I have the attention
 
 - 👽 Pronouns: She/Her
 - ⚡ Fun fact: I can talk about Movies all day.
+- 🔥 I'm mostly just having fun on here creating random things just for the hell of it. 
  
 
 [twitter]: https://twitter.com/MariamV_96
